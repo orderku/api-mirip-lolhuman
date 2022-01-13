@@ -65,10 +65,10 @@ router.get('/config', (req, res) => {
         status: true,
         result: {
             prefix : 'Multi Prefix',
-            namabot: 'ALPHA-BOT',
-            namaowner: 'zeeoneofc',
-            instagram: 'zeeoneofc',
-            github : 'https:\/\/github.com\/zeeoneofc',
+            namabot: 'ARI-BOT',
+            namaowner: 'ARIBOT',
+            instagram: 'ARIBOT',
+            github : 'https:\/\/github.com\/ARIBOT',
         }
     }
     res.json(config)
